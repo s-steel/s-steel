@@ -3,7 +3,7 @@
 
 I'm a Software Engineer in Boulder, CO, and finishing up as a student at [The Turing School of Software and Design](https://turing.io/).
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-steel&count_private=true&show_icons=true&theme=synthwave)](https://github.com/s-steel)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-steel&count_private=true&show_icons=true&theme=merko)](https://github.com/s-steel)
 
 
 When I'm not programming, you can find me camping, and hiking with my wife and two dogs.  I also love to dabble in photography and woodworking.
