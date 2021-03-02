@@ -10,9 +10,9 @@ I'm a Software Engineer in Boulder, CO, and finishing up as a student at [The Tu
   <a href="https://github.com/s-steel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-steel&show_icons=true&theme=merko" height="200" width="500"/>
   </a>
-  <a href="https://github.com/s-steel/github-readme-stats">
+<!--   <a href="https://github.com/s-steel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-steel&theme=merko" height="200" width="300"/>
-  </a>
+  </a> -->
 <!--   <a href="https://github.com/mdflynn/game-sleuth">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=game-sleuth&theme=tokyonight" height="200" width="400"/>
   </a>
