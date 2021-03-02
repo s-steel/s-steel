@@ -4,7 +4,22 @@
 I'm a Software Engineer in Boulder, CO, and finishing up as a student at [The Turing School of Software and Design](https://turing.io/).
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=s-steel&count_private=true&show_icons=true&theme=merko" alt="Sean's GitHub stats" />
+
+  
+<div align="center">
+  <a href="https://github.com/s-steel/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-steel&show_icons=true&theme=merko" height="200" width="500"/>
+  </a>
+  <a href="https://github.com/s-steel/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-steel&theme=merko" height="200" width="300"/>
+  </a>
+<!--   <a href="https://github.com/mdflynn/game-sleuth">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=game-sleuth&theme=tokyonight" height="200" width="400"/>
+  </a>
+  <a href="https://github.com/brycemara/taco-bout-it">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=taco-bout-it&theme=tokyonight" height="200" width="400"/>
+  </a> -->
+</div>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-steel&layout=compact&theme=merko)](https://github.com/s-steel)
@@ -23,11 +38,11 @@ When I'm not programming, you can find me camping, and hiking with my wife and t
 I'm always looking to meet new people and chat!
 
 
-<a href="https://www.linkedin.com/in/sean-steel/">
-  <img alt="Sean's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sean-steel/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
+  <a href="mailto:seanrsteel@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=b1361e" /></a>
+</div>
 
-[![GMail Shield](https://img.shields.io/static/v1?label=&message=seanrsteel@gmail.com&color=grey&style=flat-square&logo=Gmail)](mailto:seanrsteel@gmail.com?subject=Let's%20chat!)
 
 <!--
 **s-steel/s-steel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
