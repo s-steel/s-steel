@@ -1,7 +1,7 @@
 ### Hi there!  I'm Sean. He/Him 🌲
 
 
-I'm a Software Engineer in Boulder, CO, and finishing up as a student at [The Turing School of Software and Design](https://turing.io/).
+I'm a Software Engineer in Boulder, CO, and a graduate of [The Turing School of Software and Design](https://turing.io/).
 
 
 
