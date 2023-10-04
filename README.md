@@ -32,7 +32,6 @@ When I'm not programming, you can find me camping, and hiking with my wife and t
 - Python / Flask
 - Docker
 - JavaScript / Node.JS
-- Currently looking for new opportunities
 
 ### Get in touch with me! 📣
 I'm always looking to meet new people and chat!
