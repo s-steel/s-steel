@@ -3,31 +3,6 @@
 
 I'm a Software Engineer in Boulder, CO, and a graduate of [The Turing School of Software and Design](https://turing.io/).
 
-
-
-  
-<div align="center">
-  <a href="https://github.com/s-steel/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=s-steel&show_icons=true&theme=merko" height="200" width="500"/>
-  </a>
-<!--   <a href="https://github.com/s-steel/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-steel&theme=merko" height="200" width="300"/>
-  </a> -->
-<!--   <a href="https://github.com/mdflynn/game-sleuth">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdflynn&repo=game-sleuth&theme=tokyonight" height="200" width="400"/>
-  </a>
-  <a href="https://github.com/brycemara/taco-bout-it">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brycemara&repo=taco-bout-it&theme=tokyonight" height="200" width="400"/>
-  </a> -->
-</div>
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-steel&layout=compact&theme=merko)](https://github.com/s-steel)
--->
-
-When I'm not programming, you can find me camping, and hiking with my wife and two dogs.  I also love to dabble in photography and woodworking.
-
-
 ### I'm currently learning:
 - Python / Flask
 - Docker
