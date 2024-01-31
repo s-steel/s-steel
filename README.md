@@ -3,14 +3,6 @@
 
 I'm a Software Engineer in Boulder, CO, and a graduate of [The Turing School of Software and Design](https://turing.io/).
 
-### I'm currently learning:
-- Python / Flask
-- Docker
-- JavaScript / Node.JS
-
-### Get in touch with me! 📣
-I'm always looking to meet new people and chat!
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sean-steel/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
@@ -20,6 +12,15 @@ I'm always looking to meet new people and chat!
 
 <!--
 **s-steel/s-steel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### I'm currently learning:
+- Python / Flask
+- Docker
+- JavaScript / Node.JS
+
+### Get in touch with me! 📣
+I'm always looking to meet new people and chat!
+
 
 Here are some ideas to get you started:
 
